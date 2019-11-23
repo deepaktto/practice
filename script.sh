@@ -1,2 +1,4 @@
-#!/bib/bash
+#!/bin/bash
 hostname
+time
+date
